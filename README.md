@@ -16,3 +16,7 @@
 ```lua
 Desenvolvimento
 ```
+
+
+
+**O desenvolvimento esta previsto para 1 mês ou mais.**
