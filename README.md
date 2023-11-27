@@ -1,2 +1,15 @@
 # Fivem-Hub
-Um canal do BALINE SERVER para falar sobre o script para FiveM
+
+**Iremos criar uma Hub para Fivem. E ja iremos soltar Leaks do que ira ter futuramente quando lançada.**
+
+## Features:
+
+- **Esp;**
+- **Aimbot;**
+- **Puxar armas;**
+- **Puxar Dinheiro;**
+- **Puxar carros**
+- **E muito mais**
+
+
+
