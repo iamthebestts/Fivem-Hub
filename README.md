@@ -19,4 +19,4 @@ Desenvolvimento
 
 
 
-**O desenvolvimento esta previsto para 1 mês ou mais.**
+**O desenvolvimento esta previsto para 3 mês ou mais.**
